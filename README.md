@@ -1,4 +1,4 @@
-### Some my projects
+### Some of my projects
 
 [<img src="https://raw.githubusercontent.com/alcortazzo/alcortazzo/main/images/vktgbot.jpg" width="32" align="center"> **vktgbot**](https://github.com/alcortazzo/vktgbot) — Telegram Bot for repost from VK to TG channel
 
