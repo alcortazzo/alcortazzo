@@ -1,16 +1,13 @@
-### Hi there 👋
+### Some my projects
 
-<!--
-**alcortazzo/alcortazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src="" width="32" align="center"> **vktgbot**](https://github.com/alcortazzo/vktgbot) — Telegram Bot for repost from VK to TG channel
 
-Here are some ideas to get you started:
+[<img src="" width="32" align="center"> **Telegram-SauceNAO**](https://github.com/alcortazzo/telegram-sausenao) - Telegram bot for finding sources of anime images via SauceNao API
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[View my personal website: **alcortazzo.github.io**](https://alcortazzo.github.io)  
+[Contact me on telegram: **@alcortazzo**](https://t.me/alcortazzo)
+
+
+<!--The idea for the design of this README file was borrowed from xPaw-->
